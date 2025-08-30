@@ -39,6 +39,4 @@ Found an error or want to add something? Feel free to open an issue or submit a 
 
 ---
 
-**"AI will take your job, unless you use it."**
-
-*Learn today, lead tomorrow.*
+> To view base and camvas files, use obsidian.
