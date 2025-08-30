@@ -39,4 +39,4 @@ Found an error or want to add something? Feel free to open an issue or submit a 
 
 ---
 
-> To view base and camvas files, use obsidian.
+> To view base and canvas files, use obsidian.
