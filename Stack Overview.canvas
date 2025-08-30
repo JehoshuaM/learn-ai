@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"ee330a6bebf91785","type":"file","file":"Machine Learning.md","x":-580,"y":-460,"width":260,"height":400},
+		{"id":"817e3522b1141982","type":"file","file":"Deep Learning.md","x":-240,"y":-460,"width":260,"height":400},
+		{"id":"6ba9766f1842b2d6","type":"file","file":"Natural Language Processing.md","x":100,"y":-460,"width":260,"height":400},
+		{"id":"9d101f2e19950431","type":"file","file":"Large Language Models.md","x":440,"y":-460,"width":260,"height":400},
+		{"id":"7f995f1154fd3df4","type":"file","file":"Computer Vision.md","x":-580,"y":120,"width":260,"height":400},
+		{"id":"a85f4515bcec5870","type":"file","file":"Reinforcement Learning.md","x":100,"y":120,"width":260,"height":400},
+		{"id":"83266a3f295f38d0","type":"file","file":"Artificial Intelligence.md","x":620,"y":120,"width":460,"height":620}
+	],
+	"edges":[
+		{"id":"32082e18808fe70b","fromNode":"ee330a6bebf91785","fromSide":"right","toNode":"817e3522b1141982","toSide":"left"},
+		{"id":"d5108bc2a128021b","fromNode":"817e3522b1141982","fromSide":"right","toNode":"6ba9766f1842b2d6","toSide":"left"},
+		{"id":"180c714d47af95a3","fromNode":"6ba9766f1842b2d6","fromSide":"right","toNode":"9d101f2e19950431","toSide":"left"},
+		{"id":"1c4f03a9878eabd6","fromNode":"817e3522b1141982","fromSide":"bottom","toNode":"7f995f1154fd3df4","toSide":"top"},
+		{"id":"f6216aeb28307cae","fromNode":"817e3522b1141982","fromSide":"bottom","toNode":"a85f4515bcec5870","toSide":"top"},
+		{"id":"d3b8749f6b0bf88b","fromNode":"7f995f1154fd3df4","fromSide":"right","toNode":"83266a3f295f38d0","toSide":"left"},
+		{"id":"b30c02a93e53be79","fromNode":"a85f4515bcec5870","fromSide":"right","toNode":"83266a3f295f38d0","toSide":"left"},
+		{"id":"f80db3d26cec0fdf","fromNode":"ee330a6bebf91785","fromSide":"right","toNode":"83266a3f295f38d0","toSide":"top"},
+		{"id":"dc2b0bfb9a69bd77","fromNode":"817e3522b1141982","fromSide":"right","toNode":"83266a3f295f38d0","toSide":"top"},
+		{"id":"f6b9a2168460f96e","fromNode":"6ba9766f1842b2d6","fromSide":"right","toNode":"83266a3f295f38d0","toSide":"top"},
+		{"id":"0d8941c297afab1b","fromNode":"9d101f2e19950431","fromSide":"right","toNode":"83266a3f295f38d0","toSide":"top"}
+	]
+}
