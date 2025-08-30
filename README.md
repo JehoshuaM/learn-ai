@@ -18,14 +18,13 @@ Each topic is broken down into digestible sections with clear explanations and p
 
 ## Topics Covered
 
-- **AI Base** - Core artificial intelligence concepts
-- **Machine Learning** - How algorithms learn from data
+- **Artificial Intelligence** - Core AI concepts and foundations
+- **Machine Learning** - How algorithms learn from data  
 - **Deep Learning** - Neural networks and pattern recognition
 - **Computer Vision** - Teaching machines to "see"
 - **Natural Language Processing** - Understanding human language
 - **Large Language Models** - Advanced text generation and comprehension
 - **Reinforcement Learning** - Learning through trial and reward
-- **Stack Overview** - Technical implementation overview
 
 ## Who This Is For
 
